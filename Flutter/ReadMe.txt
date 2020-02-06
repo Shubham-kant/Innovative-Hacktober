@@ -1,0 +1,1 @@
+use flutter_beginner folder or flutter_with_flare to see simple animated button
